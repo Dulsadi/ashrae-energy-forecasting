@@ -1,0 +1,8 @@
+# large data — download from Kaggle instead
+ashrae-energy-prediction/*.csv
+*.parquet
+electricity_clean.csv
+
+# python
+__pycache__/
+.ipynb_checkpoints/
